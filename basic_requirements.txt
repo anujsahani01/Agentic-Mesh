@@ -1,0 +1,19 @@
+vllm
+torch
+triton
+bitsandbytes
+git+https://github.com/huggingface/accelerate.git
+transformers 
+peft
+llama-index-llms-huggingface
+llama-index-embeddings-langchain
+llama-index-embeddings-huggingface
+llama-index pandas openai
+sentence-transformers
+llama-index-llms-vllm
+llama-parse
+mlflow
+pyngrok
+gradio
+llama-index-llms-gemini 
+llama-index
