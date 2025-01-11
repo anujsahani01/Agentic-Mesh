@@ -31,7 +31,7 @@ Agentic Mesh is an end-to-end solution to manage and solve business queries by l
 ## Demo and Blog
 
 - **Demo Video**: [Watch the Live Demo](https://github.com/user-attachments/assets/10c1bac6-d5e4-47da-aa4b-7e6a5ea245e8)
-- **Blog Post**: [Read the Detailed Blog Here]([https://your-blog-link.com](https://sahaniiianuj.medium.com/agentic-mesh-e030d3576d86))
+- **Blog Post**: [Read the Detailed Blog Here](https://sahaniiianuj.medium.com/agentic-mesh-e030d3576d86)
 
 Explore the live walkthrough of Agentic Mesh in action and learn about the complete development journey in the accompanying blog post.
 
